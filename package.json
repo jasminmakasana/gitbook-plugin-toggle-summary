@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-collapse-expand-chapter",
-  "version": "1.0.6",
+  "name": "gitbook-plugin-toggle-summary",
+  "version": "1.0.0",
   "description": "A plugin to create summary with collapse expand",
   "main": "./out/index.js",
   "engines": {
@@ -11,7 +11,7 @@
   },
   "keywords": [
     "gitbook",
-    "gitbook-plugin-collapse-expand-chapter",
+    "gitbook-plugin-toggle-summary",
     "toggle chapters"
   ],
   "author": "Jasmin Makasana <jasminmakasana1991@gmail.com>"
